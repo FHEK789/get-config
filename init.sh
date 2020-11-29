@@ -10,3 +10,7 @@ cp ./alacritty/dracula.yml $HOME/.config/alacritty/
 
 # starship configuration
 cp ./starship/starship.toml $HOME/.config/
+
+sleep 1
+
+echo "restart alacritty to apply configurations"
