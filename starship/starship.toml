@@ -1,0 +1,14 @@
+add_newline = false
+
+[username]
+style_user = "yellow bold"
+show_always = true
+
+[directory]
+read_only = ""
+
+[rust]
+symbol = "🦀 "
+
+[python]
+symbol = " "
