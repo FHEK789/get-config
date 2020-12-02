@@ -17,3 +17,4 @@ cp ./shell/fhek789.zsh $HOME/.oh-my-zsh/custom/fhek789.zsh
 
 sleep 1
 
+echo "Done!"
