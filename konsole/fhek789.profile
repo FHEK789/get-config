@@ -1,6 +1,7 @@
 [Appearance]
+AntiAliasFonts=true
 ColorScheme=Dracula
-Font=Monospace,11,-1,5,50,0,0,0,0,0
+Font=FiraCode Nerd Font Mono,10,-1,5,53,0,0,0,0,0,Retina
 LineSpacing=1
 
 [Cursor Options]
@@ -12,7 +13,7 @@ Name=fhek789
 Parent=FALLBACK/
 TerminalCenter=true
 TerminalColumns=145
-TerminalMargin=1
+TerminalMargin=0
 TerminalRows=33
 
 [Scrolling]
