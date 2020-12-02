@@ -3,6 +3,7 @@ AntiAliasFonts=true
 ColorScheme=Dracula
 Font=FiraCode Nerd Font Mono,10,-1,5,53,0,0,0,0,0,Retina
 LineSpacing=1
+UseFontLineChararacters=false
 
 [Cursor Options]
 CursorShape=1
@@ -16,9 +17,13 @@ TerminalColumns=145
 TerminalMargin=0
 TerminalRows=33
 
+[Interaction Options]
+UnderlineFilesEnabled=true
+
 [Scrolling]
 HighlightScrolledLines=false
-HistorySize=500
+HistorySize=2000
+ScrollBarPosition=1
 
 [Terminal Features]
 BlinkingCursorEnabled=false
