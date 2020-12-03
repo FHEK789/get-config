@@ -3,7 +3,7 @@
 echo "--- GETTING CONFIG ---"
 
 # konsole configuration
-cp ./konsole/* $HOME/.local/share/konsole/
+./konsole/init_konsole.sh
 
 # starship configuration
 cp ./starship/starship.toml $HOME/.config/
