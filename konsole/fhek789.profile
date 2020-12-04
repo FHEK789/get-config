@@ -14,7 +14,7 @@ Name=fhek789
 Parent=FALLBACK/
 TerminalCenter=true
 TerminalColumns=145
-TerminalMargin=0
+TerminalMargin=1
 TerminalRows=33
 
 [Interaction Options]
