@@ -16,7 +16,7 @@ cp ./vscode/settings.json $HOME/.config/Code/User/settings.json
 cp ./shell/fhek789.zsh $HOME/.oh-my-zsh/custom/fhek789.zsh
 
 # csgo binds
-cp ./csgo/binds.cfg $HOME/.steam/steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/
+cp ./csgo/binds.cfg $HOME/.steam/steam/steamapps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/
 
 sleep 1
 
