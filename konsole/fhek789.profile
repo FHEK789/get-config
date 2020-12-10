@@ -15,7 +15,7 @@ Parent=FALLBACK/
 TerminalCenter=true
 TerminalColumns=145
 TerminalMargin=1
-TerminalRows=33
+TerminalRows=29
 
 [Interaction Options]
 UnderlineFilesEnabled=true
