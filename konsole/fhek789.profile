@@ -1,7 +1,7 @@
 [Appearance]
 AntiAliasFonts=true
 ColorScheme=Dracula
-Font=FiraCode Nerd Font Mono,10,-1,5,53,0,0,0,0,0,Retina
+Font=Fira Code,10,-1,5,50,0,0,0,0,0
 LineSpacing=1
 UseFontLineChararacters=false
 
@@ -22,6 +22,7 @@ UnderlineFilesEnabled=true
 
 [Scrolling]
 HighlightScrolledLines=false
+HistoryMode=2
 HistorySize=2000
 ScrollBarPosition=1
 
