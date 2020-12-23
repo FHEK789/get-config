@@ -25,7 +25,7 @@ cp ./shell/zshrc $HOME/.zshrc
 copy_to "$HOME/.oh-my-zsh/custom" "./shell/fhek789.zsh"
 
 # csgo binds
-copy_to "$HOME/.steam/steam/steampps/common/Counter-Strick\ Global\ Offensive/csgo/cfg" "./csgo/binds.cfg"
+copy_to "$HOME/.steam/steam/steamapps/common/Counter-Strike\ Global\ Offensive/csgo/cfg" "./csgo/binds.cfg"
 
 sleep 1
 
