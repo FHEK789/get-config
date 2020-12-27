@@ -1,7 +1,7 @@
 [Appearance]
 AntiAliasFonts=true
 ColorScheme=Dracula
-Font=Fira Code,10,-1,5,50,0,0,0,0,0
+Font=FiraCode Nerd Font,10,-1,5,50,0,0,0,0,0
 LineSpacing=1
 UseFontLineChararacters=false
 
