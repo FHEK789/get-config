@@ -4,7 +4,7 @@ function copy_to() {
 	if [[ -d $1 ]]; then
 		cp $2 $1
 	else
-		echo "directory not found."
+		echo "directory not found - ($1)."
 	fi
 }
 
