@@ -6,6 +6,7 @@ chpwd() {
         ls
 }
 
+alias lh="ls -d .*"
 alias sudo="sudo "
 alias v="nvim"
 alias zc="nvim $HOME/.zshrc"
