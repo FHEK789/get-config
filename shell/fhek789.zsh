@@ -6,6 +6,7 @@ chpwd() {
         ls
 }
 
+alias what-provides="zypper search --provides --match-exact"
 alias lh="ls -d .*"
 alias sudo="sudo "
 alias v="nvim"
