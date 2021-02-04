@@ -7,7 +7,7 @@ chpwd() {
 }
 
 alias what-provides="zypper search --provides --match-exact"
-alias lh="ls -d .*"
+alias l.="ls -d .*"
 alias sudo="sudo "
 alias v="nvim"
 alias zc="nvim $HOME/.zshrc"
