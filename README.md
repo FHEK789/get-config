@@ -1,6 +1,6 @@
 # Get Config
 
-simple script to download and set various configurations.
+simple script to download and set the most important config files.
 
 ## Quick Start
 ```bash
